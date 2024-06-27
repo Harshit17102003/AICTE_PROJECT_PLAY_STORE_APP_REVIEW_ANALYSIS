@@ -17,17 +17,17 @@ The objective of this experiment is to deliver insights to understand customer d
 <p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
 
 ### Executable Files:
-- [Play Store App Review Analysis](https://github.com/San13deep/Play-Store-App-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb) - Includes all functions required for clustering operations.
+- [Play Store App Review Analysis](https://github.com/Harshit17102003/AICTE_PROJECT_PLAY_STORE_APP_REVIEW_ANALYSIS/blob/ae0b6859d2a8afa703de5de87b13f671cc68bd69/Play_Store_App_Review_Analysis.ipynb) - Includes all functions required for clustering operations.
 
 ### Output:
-- [Google Colab](https://github.com/San13deep/Play-Store-App-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb) - All the outputs are visible in the provided colab notebook.
+- [Google Colab](https://github.com/Harshit17102003/AICTE_PROJECT_PLAY_STORE_APP_REVIEW_ANALYSIS/blob/ae0b6859d2a8afa703de5de87b13f671cc68bd69/Play_Store_App_Review_Analysis.ipynb) - All the outputs are visible in the provided colab notebook.
 
 ### Input Files:
   <li><b>Play Store Data.csv</b> - It contains the basic details of the app like number of user reviews, ratings, etc.</li>
   <li><b>User Reviews.csv</b> - It contains the user reviews and its sentiment score for the respective app.</li>
 
 ### Data Source:
-- [Dataset](https://learn.almabetter.com/courses/take/team-capstone-projects/texts/19443175-play-store-app-review-analysis-dataset) - Dataset taken from Almabetter
+- [Dataset](https://github.com/Harshit17102003/AICTE_PROJECT_PLAY_STORE_APP_REVIEW_ANALYSIS.git) - Datasets are User Review.Csv & Play Store App Review.Csv
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
