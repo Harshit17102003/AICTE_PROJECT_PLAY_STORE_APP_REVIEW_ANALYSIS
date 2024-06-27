@@ -1,5 +1,5 @@
 <h1 align="center"> Play Store App Review Analysis</h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
+
 
 <p align="center"> 
 <img src="GIF/google play.gif" alt="Animated gif" height="282px">
